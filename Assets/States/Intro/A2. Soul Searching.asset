@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 559f353e50961bc4bbd924617d52c8aa, type: 3}
+  m_Name: A2. Soul Searching
+  m_EditorClassIdentifier: 
+  storyText: "You look around the whole club, including the women's bathroom, but
+    still no one to be found. The creepy bartender was gone at least, but everyone
+    else groovy was gone. However, it's possible that everyone left for the other
+    dance clubs...\r\n\r\nWhere should you continue your search?\r\n\r\n1. The Hustle\r\n\r\n2.
+    The Bus Stop\n\n3. The Disco Finger"
+  nextStates:
+  - {fileID: 11400000, guid: 27a4183600e47824bb363220d40dced4, type: 2}
+  - {fileID: 11400000, guid: f54da86967be578479c762c95048cca1, type: 2}
+  - {fileID: 11400000, guid: d4790ba3fc413474f8ca6f9b9845fab9, type: 2}

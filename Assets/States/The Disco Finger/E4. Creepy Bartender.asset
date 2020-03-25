@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 559f353e50961bc4bbd924617d52c8aa, type: 3}
+  m_Name: E4. Creepy Bartender
+  m_EditorClassIdentifier: 
+  storyText: "DJ Max looks around the dance floor and you recognize everyone here.
+    You found them! Then you saw him... The creepy bartender. Some thing looked off
+    though. His dancing was stiff and his stare didn't move, almost as if he did,
+    a laser would shoot him in the back of the head. You try to get his attention,
+    but no amount of arm waving or shouting in his face is helping. There's only one
+    more thing left to try...\r\n\r\n1. Slap him across the face\r\n\r\n2. Stick your
+    foot out and trip him"
+  nextStates:
+  - {fileID: 11400000, guid: 59beb475ed364084da0cc7f426c4d0fb, type: 2}
+  - {fileID: 11400000, guid: 59beb475ed364084da0cc7f426c4d0fb, type: 2}

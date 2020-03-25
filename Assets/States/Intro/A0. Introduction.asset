@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 559f353e50961bc4bbd924617d52c8aa, type: 3}
+  m_Name: A0. Introduction
+  m_EditorClassIdentifier: 
+  storyText: 'Welcome to In a Funk! This is a choose your own adventure game.
+
+
+    Press the appropriate number for the choices you want to make.
+
+    Press "q" to quit at any time.
+
+
+    1. Start
+
+'
+  nextStates:
+  - {fileID: 11400000, guid: f2950867f21b00d49bee5675bf7e2069, type: 2}

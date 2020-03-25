@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 559f353e50961bc4bbd924617d52c8aa, type: 3}
+  m_Name: E5. Pins of Control
+  m_EditorClassIdentifier: 
+  storyText: "The creepy bartender falls flat on his face. As the bartender rolls
+    over dazed and confused wondering where he was, you notice a small pin that has
+    broken into even smaller pieces with electrical components inside. Aha! The pins
+    are mind controlling everyone. What do you do?\r\n\r\n1. Take off and destroy
+    everyone's pins with the bartender's help\r\n\r\n2. Curse at the bartender for
+    being a creepy dude and to never show up at The Funky Chicken again, and destroy
+    the pins yourself"
+  nextStates:
+  - {fileID: 11400000, guid: 1e91b012d4b6a4e499091f3c2670b606, type: 2}
+  - {fileID: 11400000, guid: 0aa5a1710931ddc41acffec8ccfcfd7a, type: 2}

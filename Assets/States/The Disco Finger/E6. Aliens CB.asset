@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 559f353e50961bc4bbd924617d52c8aa, type: 3}
+  m_Name: E6. Aliens CB
+  m_EditorClassIdentifier: 
+  storyText: "You and the bartender take everyone's pins off and destroy them. It's
+    now that you come face to face with the dancer abductors... Aliens. They look
+    just like how they're described in the tabloids, which was surprising. They're
+    green with two antenna looking ears and a ball at the end of each one. They don't
+    look intimidating at all, in fact they look rather cute. However, they did kidnap
+    your dancers at the hottest club in town.\r\n\r\nWhat do you do?\r\n\r\n1. Strangle
+    them all to death\r\n\r\n2. Help them find their groove"
+  nextStates:
+  - {fileID: 11400000, guid: fadc6f316eec7d346abac20ca50999c8, type: 2}
+  - {fileID: 11400000, guid: 9beb72bcf4be0924298f957eda17d5d0, type: 2}

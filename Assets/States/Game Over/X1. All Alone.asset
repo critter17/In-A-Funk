@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 559f353e50961bc4bbd924617d52c8aa, type: 3}
+  m_Name: X1. All Alone
+  m_EditorClassIdentifier: 
+  storyText: 'You go home and turn on the TV looking for a late night movie to watch
+    and fall asleep to. The next morning you decide to make a grocery run, but when
+    you get to the store, not a single soul was there. Not even workers. You go out
+    and search some other places but you can''t find anyone. You''re all alone, and
+    knowing there''s no one left to dance to the music you play, you go crazy and
+    take your own life...
+
+
+    Play again?
+
+    1. Yes
+
+    2. No'
+  nextStates:
+  - {fileID: 11400000, guid: f2950867f21b00d49bee5675bf7e2069, type: 2}
+  - {fileID: 11400000, guid: 7a26a951734bee9449b68ae0ab167dcb, type: 2}
